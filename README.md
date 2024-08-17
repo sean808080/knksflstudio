@@ -17,7 +17,7 @@ Key features:
 
 HOW TO INSTALL:
 
-1. Make sure to put the provided .py file in a "KORG nanoKontrol Studio" folder in the C:\Users\(your name)\Documents\Image-Line\FL Studio\Settings\Hardware
+1. Make sure to put the provided KORG nanoKontrol.ini file and Korg nanoKONTROL folder in the C:\Users\(your name)\Documents\Image-Line\FL Studio\Settings\Hardware
 2. Make sure to have installed and open KORG Kontrol Editor and open the "AftaKNKSFLStudio.nktrl_st_set" file provided inside it. After you opened it you need to "write" it to the controller by going to Communication > Write Scene Set. You should get a warning message, just click confirm.
 3. (optional) Make sure to put the FL Studio Template file inside "C:\Program Files (x86)\Image-Line\FL Studio 20\Data\Templates"
 4. Open FL Studio and go to Options > MIDI Settings. Find your device in the list and assign a script to it the usual way. Next open the FL studio template provided as it's going to make a lot more sense as to what tracks are controlled with what fader in the first group.
